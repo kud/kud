@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Erwann, a software engineer specialised in front-end 👨‍💻 working in london since 2022 🚀</div>  
+### <div align="center">I'm Erwann, a software engineer specialised in front-end and javascript 👨‍💻 working in london since 2022 🚀</div>  
   
 
 <br/>  

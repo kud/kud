@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erwann Mest</h1>
-<h3 align="center">a senior software engineer specialised in front-end and javascript 👨‍💻 working in london since 2022 🚀</h3>
+<h3 align="center">a senior software engineer specialised in front-end and javascript 👨‍💻<br> working in london since 2022 🚀</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

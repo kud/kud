@@ -20,7 +20,6 @@
 - [**gh-pr-comments**](https://github.com/kud/gh-pr-comments) — Browse GitHub PR review discussions in the terminal
 - [**models-dev-cli**](https://github.com/kud/models-dev-cli) — Explore the models.dev catalogue from your terminal with a rich TUI
 - [**jenkins-cli**](https://github.com/kud/jenkins-cli) — Fast Jenkins terminal companion with interactive TUI and smart log highlighting
-- [**xcode-versa-cli**](https://github.com/kud/xcode-versa-cli) — Manage multiple Xcode versions on macOS
 - [**claude-plugins**](https://github.com/kud/claude-plugins) — A curated collection of Claude Code plugins for MCP servers
 
 ---

@@ -21,7 +21,7 @@
 - [**models-dev-cli**](https://github.com/kud/models-dev-cli) — Explore the models.dev catalogue from your terminal with a rich TUI
 - [**jenkins-cli**](https://github.com/kud/jenkins-cli) — Fast Jenkins terminal companion with interactive TUI and smart log highlighting
 - [**xcode-versa-cli**](https://github.com/kud/xcode-versa-cli) — Manage multiple Xcode versions on macOS
-- [**ai-feed-digest**](https://github.com/kud/ai-feed-digest) — AI-powered RSS aggregator that generates elegant daily briefings
+- [**claude-plugins**](https://github.com/kud/claude-plugins) — A curated collection of Claude Code plugins for MCP servers
 
 ---
 

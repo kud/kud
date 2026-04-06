@@ -35,10 +35,13 @@
 
 ---
 
-### 🎨 VS Code
+### 🎨 VS Code Themes
 
 - [**november-vscode**](https://github.com/kud/november-vscode) — Dark theme with warm amber accents
 - [**modern-cobalt2-vscode**](https://github.com/kud/modern-cobalt2-vscode) — Modern take on Cobalt2 — deep navy blues and golden accents
+
+### 🧩 VS Code Extensions
+
 - [**revu-vscode**](https://github.com/kud/revu-vscode) — Annotate any line of code, export your review to Claude, Copilot, or ChatGPT in one click
 
 ---

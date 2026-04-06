@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erwann 👋</h1>
-<p align="center">Lead Engineer · JavaScript, Shell & AI · Crafting minimal, polished tools · London 💐</p>
+<p align="center">Lead Engineer · JavaScript, Shell & AI · UX, DX & the art of minimal, polished tools · London 💐</p>
 
 ---
 

@@ -20,6 +20,7 @@
 - [**gh-pr-comments**](https://github.com/kud/gh-pr-comments) — Browse GitHub PR review discussions in the terminal
 - [**models-dev-cli**](https://github.com/kud/models-dev-cli) — Explore the models.dev catalogue from your terminal with a rich TUI
 - [**jenkins-cli**](https://github.com/kud/jenkins-cli) — Fast Jenkins terminal companion with interactive TUI and smart log highlighting
+- [**am-i-admin-cli**](https://github.com/kud/am-i-admin-cli) — Quickly check whether you have admin rights on your macOS machine
 - [**claude-plugins**](https://github.com/kud/claude-plugins) — A curated collection of Claude Code plugins for MCP servers
 
 ---
@@ -32,6 +33,8 @@
 - [**mcp-github-copilot**](https://github.com/kud/mcp-github-copilot) — Query any Copilot model from Claude via the official Copilot SDK
 - [**mcp-jenkins**](https://github.com/kud/mcp-jenkins) — 25+ tools for managing Jenkins jobs, builds, and CI/CD workflows
 - [**mcp-harness-fme**](https://github.com/kud/mcp-harness-fme) — Read and toggle Harness FME (Split.io) feature flags from your AI assistant
+- [**mcp-getstream-feeds**](https://github.com/kud/mcp-getstream-feeds) — Investigate push notification delivery and subscription state for GetStream Feeds
+- [**mcp-opencode**](https://github.com/kud/mcp-opencode) — Query any configured model via a persistent opencode server
 
 ---
 

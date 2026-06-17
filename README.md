@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://kud.io"><strong>kud.io</strong></a> ·
-  <a href="https://kud.io/projects"><strong>Projects</strong></a> ·
   <a href="https://bsky.app/profile/kud.io">Bluesky</a> ·
   <a href="https://linkedin.kud.io">LinkedIn</a>
 </p>

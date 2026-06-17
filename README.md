@@ -1,13 +1,4 @@
 <h1 align="center">Hi, I'm Erwann 👋</h1>
-<p align="center">Lead Engineer · JavaScript, Shell &amp; AI · UX, DX &amp; the art of minimal, polished tools · London 💐</p>
-
-<p align="center">
-  <a href="https://kud.io"><strong>kud.io</strong></a> ·
-  <a href="https://bsky.app/profile/kud.io">Bluesky</a> ·
-  <a href="https://linkedin.kud.io">LinkedIn</a>
-</p>
-
----
 
 <p align="center">
   I design and maintain open-source tools for the terminal and AI workflows —
